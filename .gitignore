@@ -1,0 +1,7 @@
+encoder.pkl
+model.h5
+model.w2v
+tokenizer.pkl
+server/main/Model/input/training.1600000.processed.noemoticon.csv
+server/main/__pycache__
+*.pyc
